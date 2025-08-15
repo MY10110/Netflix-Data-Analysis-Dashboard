@@ -1,0 +1,17 @@
+SCHEMAS of Netflix Table.
+
+CREATE TABLE netflix
+(
+	id	VARCHAR(5),
+	type    VARCHAR(10),
+	title	VARCHAR(300),
+	director VARCHAR(500),
+	casts	VARCHAR(1000),
+	country	VARCHAR(500),
+	date_added	VARCHAR(50),
+	release_year INT,
+	rating	VARCHAR(20),
+	duration	VARCHAR(20),
+	listed_in	VARCHAR(200),
+	description VARCHAR(500)
+);

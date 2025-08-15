@@ -1,0 +1,23 @@
+Key finding questions:-
+
+
+1, Total number of titles
+2, Count movies VS shows
+3, Top 10 countries with most titles
+4, Most common ratings
+5, List all TV shows with more than 5 seasons
+6, Find All Children's Movies/TV Shows
+7, Top 10 Directors of Children's Content
+8, Releses per year
+9, Top 10 directors with most titles
+10, Top 10 actors with most appearances
+11, Top 10 genres/listed_in
+12, Average movie duration (in minutes) - only for Movies
+13, Distribution of TV show seasons
+14, Movies with duration more than 2 hours
+15, Longest and Shortest movie
+16, Avg. Yearly Releases in India (Top 5 Years)
+17, List all movies that are documentaries
+18, Find how many movies actor 'Salman Khan', 'Aamir Khan', 'Tom Cruise' appeared in last 10 years
+19, Top 10 Indian Movie Actors
+20, Content Classification: Good vs Bad
